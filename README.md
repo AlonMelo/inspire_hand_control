@@ -13,6 +13,7 @@ Keyboard control • safe threaded command execution • Modbus communication �
   - `keyboard_control_pynput.py` → Hotkey controller  
   - `hello_hand.py` → Minimal usage example  
 - **Easily extendable** - add new gestures in one class
+- **recordings** - not tested yet and probably require calibration and improvments
 
 ## 🧩 Project Structure  
 ```
