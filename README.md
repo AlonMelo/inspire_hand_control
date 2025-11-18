@@ -165,8 +165,8 @@ Done - no communication-layer changes needed.
 - Let motors cool 2-3 minutes  
 - Lower force or speed  
 
-## 📜 License  
-MIT License
+
+
 
 ## 🙌 Credits  
 - **Inspire Robots** - hardware & protocol  
